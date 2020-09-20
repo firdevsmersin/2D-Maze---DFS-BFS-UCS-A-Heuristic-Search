@@ -1,5 +1,5 @@
 # 2D-Maze DFS, BFS, UCS, A* HeuristicSearch
-Implemention of a Python program for solving 2D mazes using
+Implementation of a Python program for solving 2D mazes using
 
 a.	Depth First Search
 
