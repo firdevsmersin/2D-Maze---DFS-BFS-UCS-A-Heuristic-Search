@@ -1,0 +1,214 @@
+{
+  "initial_state": [2, 1],
+  "goal_states": [[2, 6], [5, 6], [7, 4], [7, 7]],
+  "maze": [
+  [
+    {
+      "cost": 1, "move": "e,s"
+    },
+    {
+      "cost": 1, "move": "w,s"
+    },
+    {
+      "cost": 1, "move": "e,s"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "e,w,s"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "w,s"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,e"
+    },
+    {
+      "cost": 1, "move": "e,w,n"
+    },
+    {
+      "cost": 7, "move": "s,w"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "e,s"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "w,n,s"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s,e"
+    },
+    {
+      "cost": 1, "move": "w,s"
+    },
+    {
+      "cost": 1, "move": "s"
+    },
+    {
+      "cost": 1, "move": "n,e"
+    },
+    {
+      "cost": 1, "move": "n,e,w"
+    },
+    {
+      "cost": 7, "move": "e,s,n,w"
+    },
+    {
+      "cost": 1, "move": "w"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,s,e"
+    },
+    {
+      "cost": 1, "move": "n,s,w"
+    },
+    {
+      "cost": 1, "move": "s,e"
+    },
+    {
+      "cost": 1, "move": "s,w"
+    },
+    {
+      "cost": 1, "move": "s,n"
+    },
+    {
+      "cost": 1, "move": "e"
+    },
+    {
+      "cost": 1, "move": "n,s,w"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "s"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s,e"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "n,w,e"
+    },
+    {
+      "cost": 1, "move": "n,w"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,s"
+    },
+    {
+      "cost": 1, "move": "n,e"
+    },
+    {
+      "cost": 1, "move": "n,s,w"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,s,e"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "e,w,s"
+    },
+    {
+      "cost": 1, "move": "s,w"
+    },
+    {
+      "cost": 1, "move": "n"
+    },
+    {
+      "cost": 7, "move": "n,e"
+    },
+    {
+      "cost": 1, "move": "w,s"
+    },
+    {
+      "cost": 7, "move": "n,s"
+    }
+  ],
+  [
+    {
+      "cost": 1, "move": "n,e"
+    },
+    {
+      "cost": 1, "move": "w"
+    },
+    {
+      "cost": 1, "move": "n"
+    },
+    {
+      "cost": 1, "move": "n"
+    },
+    {
+      "cost": 1, "move": "e"
+    },
+    {
+      "cost": 1, "move": "e,w"
+    },
+    {
+      "cost": 1, "move": "n,w"
+    },
+    {
+      "cost": 1, "move": "n"
+    }
+  ]
+]
+}
